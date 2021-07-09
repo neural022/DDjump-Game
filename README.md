@@ -1,4 +1,4 @@
-# DDjump_Game
+# DDjump-Game
 
 ### Operating instructions (Keyboard)
 
