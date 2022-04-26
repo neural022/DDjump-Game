@@ -1,5 +1,10 @@
 # DDjump-Game
 
+### Demo
+
+<img src="./img/DDjump.jpg"/>
+
+
 ### Operating instructions (Keyboard)
 
 jump : press `space` key
